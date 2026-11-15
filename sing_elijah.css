@@ -61,18 +61,18 @@
 
 .quoteye {
 	margin-top: -3px;
-	margin-left: 2px;
+	margin-left: 26px;
 	color: #fff;
 	font-family: arial;
 	font-size: 9px;
 	text-transform: uppercase;
 	letter-spacing: 2px;
-	width: 114px;
+	width: 100px;
 	text-align: justify;
 }
 
 .quoteye b {
-	color: #E7A528;
+	color: #5DAA3C;
 }
 
 .yeall {
